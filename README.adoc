@@ -1,4 +1,4 @@
-= PDF-table
+= document-table-extraction-engine
 :toc:
 
 == What is PDF-table?
